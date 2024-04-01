@@ -1,0 +1,5 @@
+taxi:
+  name: Луна
+  rate:
+    day: 10
+    night: 15

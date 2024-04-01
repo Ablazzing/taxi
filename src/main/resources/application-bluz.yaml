@@ -1,0 +1,5 @@
+taxi:
+  name: Блюз
+  rate:
+    day: 7
+    night: 30
